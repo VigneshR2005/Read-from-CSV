@@ -4,7 +4,7 @@
 To write a python program for reading the csv file content
 ## ALGORITHM:
 ### Step 1:
-load the csv into a dataframe.
+load the csv into  dataframe.
 ### Step 2:
 print the number of contents to be displayed using df.head().
 ### Step 3:
